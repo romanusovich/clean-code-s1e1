@@ -18,9 +18,11 @@ ul {
 }
 
 @media (max-width:768px) {
+
   .details {
     text-align: center;
   }
+  
 }
 
 .details__img {
