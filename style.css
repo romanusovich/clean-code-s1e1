@@ -146,11 +146,11 @@ button:hover {
     color: #888;
 }
 
-ul .todo__task .task__text.edit {
+.todo__task .task__text.edit {
     display: none;
 }
 
-ul .todo__task.edit-mode .task__text.edit {
+.todo__task.edit-mode .task__text.edit {
     display: inline-block;
     width: 224px;
 }
